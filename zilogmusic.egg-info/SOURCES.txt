@@ -7,5 +7,7 @@ zilogmusic.egg-info/dependency_links.txt
 zilogmusic.egg-info/entry_points.txt
 zilogmusic.egg-info/top_level.txt
 zilogmusic/config/__init__.py
+zilogmusic/controllers/PlayMusic.py
+zilogmusic/controllers/Socket.py
 zilogmusic/controllers/__init__.py
 zilogmusic/controllers/login.py

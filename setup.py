@@ -8,7 +8,7 @@ setup(
  author_email="fakhrilak@zilog.tech",
  license="GNU",
  url="blogger.zilog.tech",
- packages=["zilogmusic","zilogmusic/controllers","zilogmusic/config"],
+ packages=["zilogmusic","zilogmusic/controllers","zilogmusic/config","zilogmusic/mp3"],
  entry_points={
  "console_scripts": [
  "zilogmusic=zilogmusic:main",
